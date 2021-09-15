@@ -2,4 +2,4 @@
 
 <br/>
 
-<img scr="./biodata/img/Capture.PNG" alt="">
+<img src="./biodata/img/Capture.PNG" alt="">
